@@ -1,0 +1,36 @@
+﻿@model Desafio.Application.DTO.DivisorDTO
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Bem Vindo!</h1>
+    <h3>Escolha um número maior que 0 para verificar seus divisores e os divisores primos</h3>
+    @using (Html.BeginForm("GetDividers", "Home", FormMethod.Post))
+    {
+        @Html.TextBoxFor(m => m.Number, new { type = "number", min = "1", @value = @Model.Number})
+        <input type="submit" value="Enviar" />
+    }
+    <div class="text-left">
+        <p>Divisores</p>
+        <tr>
+            @{
+                foreach (var divider in @Model.AllDivisors)
+                {
+                    <th>@divider;</th>
+                }
+            }
+        </tr>
+    </div>
+    <div class="text-left">
+        <p>Divisores primos</p>
+        <tr>
+            @{
+                foreach (var divider in @Model.PrimeDivisors)
+                {
+                    <th>@divider;</th>
+                }
+            }
+        </tr>
+    </div>
+</div>
