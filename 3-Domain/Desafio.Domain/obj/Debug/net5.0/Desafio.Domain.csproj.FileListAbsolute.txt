@@ -1,0 +1,12 @@
+/home/laercio/Projetos/Dotnet/desafio_framework/3-Domain/Desafio.Domain/bin/Debug/net5.0/Desafio.Domain.deps.json
+/home/laercio/Projetos/Dotnet/desafio_framework/3-Domain/Desafio.Domain/bin/Debug/net5.0/Desafio.Domain.dll
+/home/laercio/Projetos/Dotnet/desafio_framework/3-Domain/Desafio.Domain/bin/Debug/net5.0/ref/Desafio.Domain.dll
+/home/laercio/Projetos/Dotnet/desafio_framework/3-Domain/Desafio.Domain/bin/Debug/net5.0/Desafio.Domain.pdb
+/home/laercio/Projetos/Dotnet/desafio_framework/3-Domain/Desafio.Domain/obj/Debug/net5.0/Desafio.Domain.csproj.AssemblyReference.cache
+/home/laercio/Projetos/Dotnet/desafio_framework/3-Domain/Desafio.Domain/obj/Debug/net5.0/Desafio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/laercio/Projetos/Dotnet/desafio_framework/3-Domain/Desafio.Domain/obj/Debug/net5.0/Desafio.Domain.AssemblyInfoInputs.cache
+/home/laercio/Projetos/Dotnet/desafio_framework/3-Domain/Desafio.Domain/obj/Debug/net5.0/Desafio.Domain.AssemblyInfo.cs
+/home/laercio/Projetos/Dotnet/desafio_framework/3-Domain/Desafio.Domain/obj/Debug/net5.0/Desafio.Domain.csproj.CoreCompileInputs.cache
+/home/laercio/Projetos/Dotnet/desafio_framework/3-Domain/Desafio.Domain/obj/Debug/net5.0/Desafio.Domain.dll
+/home/laercio/Projetos/Dotnet/desafio_framework/3-Domain/Desafio.Domain/obj/Debug/net5.0/ref/Desafio.Domain.dll
+/home/laercio/Projetos/Dotnet/desafio_framework/3-Domain/Desafio.Domain/obj/Debug/net5.0/Desafio.Domain.pdb

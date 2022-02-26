@@ -1,0 +1,15 @@
+/home/laercio/Projetos/Dotnet/desafio_framework/4-infra/4.1-Data/Desafio.Data/bin/Debug/net5.0/Desafio.Data.deps.json
+/home/laercio/Projetos/Dotnet/desafio_framework/4-infra/4.1-Data/Desafio.Data/bin/Debug/net5.0/Desafio.Data.dll
+/home/laercio/Projetos/Dotnet/desafio_framework/4-infra/4.1-Data/Desafio.Data/bin/Debug/net5.0/ref/Desafio.Data.dll
+/home/laercio/Projetos/Dotnet/desafio_framework/4-infra/4.1-Data/Desafio.Data/bin/Debug/net5.0/Desafio.Data.pdb
+/home/laercio/Projetos/Dotnet/desafio_framework/4-infra/4.1-Data/Desafio.Data/bin/Debug/net5.0/Desafio.Domain.dll
+/home/laercio/Projetos/Dotnet/desafio_framework/4-infra/4.1-Data/Desafio.Data/bin/Debug/net5.0/Desafio.Domain.pdb
+/home/laercio/Projetos/Dotnet/desafio_framework/4-infra/4.1-Data/Desafio.Data/obj/Debug/net5.0/Desafio.Data.csproj.AssemblyReference.cache
+/home/laercio/Projetos/Dotnet/desafio_framework/4-infra/4.1-Data/Desafio.Data/obj/Debug/net5.0/Desafio.Data.GeneratedMSBuildEditorConfig.editorconfig
+/home/laercio/Projetos/Dotnet/desafio_framework/4-infra/4.1-Data/Desafio.Data/obj/Debug/net5.0/Desafio.Data.AssemblyInfoInputs.cache
+/home/laercio/Projetos/Dotnet/desafio_framework/4-infra/4.1-Data/Desafio.Data/obj/Debug/net5.0/Desafio.Data.AssemblyInfo.cs
+/home/laercio/Projetos/Dotnet/desafio_framework/4-infra/4.1-Data/Desafio.Data/obj/Debug/net5.0/Desafio.Data.csproj.CoreCompileInputs.cache
+/home/laercio/Projetos/Dotnet/desafio_framework/4-infra/4.1-Data/Desafio.Data/obj/Debug/net5.0/Desafio.Data.csproj.CopyComplete
+/home/laercio/Projetos/Dotnet/desafio_framework/4-infra/4.1-Data/Desafio.Data/obj/Debug/net5.0/Desafio.Data.dll
+/home/laercio/Projetos/Dotnet/desafio_framework/4-infra/4.1-Data/Desafio.Data/obj/Debug/net5.0/ref/Desafio.Data.dll
+/home/laercio/Projetos/Dotnet/desafio_framework/4-infra/4.1-Data/Desafio.Data/obj/Debug/net5.0/Desafio.Data.pdb
