@@ -38,7 +38,7 @@ namespace Desafio.Domain.Test
         [InlineData (127)]
         public void PrimeFermat_Test(int number)
         {
-            Assert.True(DivisibilityDomain.IsPrimeFermat(number));
+            Assert.True(_divisibilityDomain.IsPrimeFermat(number));
         }
 
         [Theory]
@@ -47,7 +47,7 @@ namespace Desafio.Domain.Test
         [InlineData (173)]
         public void PrimeRoot_Test(int number)
         {
-            Assert.True(DivisibilityDomain.IsPrimeSquareRoot(number));
+            Assert.True(_divisibilityDomain.IsPrimeSquareRoot(number));
         }
     }
 }
