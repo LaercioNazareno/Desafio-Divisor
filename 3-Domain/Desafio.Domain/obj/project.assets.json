@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/laercio/Projetos/Dotnet/desafio_framework/3-Domain/Desafio.Domain/Desafio.Domain.csproj",
+      "projectUniqueName": "/home/laercio/Projetos/Dotnet/Desafio-Divisor/3-Domain/Desafio.Domain/Desafio.Domain.csproj",
       "projectName": "Desafio.Domain",
-      "projectPath": "/home/laercio/Projetos/Dotnet/desafio_framework/3-Domain/Desafio.Domain/Desafio.Domain.csproj",
+      "projectPath": "/home/laercio/Projetos/Dotnet/Desafio-Divisor/3-Domain/Desafio.Domain/Desafio.Domain.csproj",
       "packagesPath": "/home/laercio/.nuget/packages/",
-      "outputPath": "/home/laercio/Projetos/Dotnet/desafio_framework/3-Domain/Desafio.Domain/obj/",
+      "outputPath": "/home/laercio/Projetos/Dotnet/Desafio-Divisor/3-Domain/Desafio.Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/laercio/.nuget/NuGet/NuGet.Config"

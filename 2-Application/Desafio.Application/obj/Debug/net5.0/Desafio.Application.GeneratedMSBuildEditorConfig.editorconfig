@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Desafio.Application
-build_property.ProjectDir = /home/laercio/Projetos/Dotnet/desafio_framework/2-Application/Desafio.Application/
+build_property.ProjectDir = /home/laercio/Projetos/Dotnet/Desafio-Divisor/2-Application/Desafio.Application/
