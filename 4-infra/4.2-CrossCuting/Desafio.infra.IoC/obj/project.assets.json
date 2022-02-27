@@ -292,11 +292,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/laercio/Projetos/Dotnet/desafio_framework/4-infra/4.2-CrossCuting/Desafio.infra.IoC/Desafio.infra.IoC.csproj",
+      "projectUniqueName": "/home/laercio/Projetos/Dotnet/Desafio-Divisor/4-infra/4.2-CrossCuting/Desafio.infra.IoC/Desafio.infra.IoC.csproj",
       "projectName": "Desafio.infra.IoC",
-      "projectPath": "/home/laercio/Projetos/Dotnet/desafio_framework/4-infra/4.2-CrossCuting/Desafio.infra.IoC/Desafio.infra.IoC.csproj",
+      "projectPath": "/home/laercio/Projetos/Dotnet/Desafio-Divisor/4-infra/4.2-CrossCuting/Desafio.infra.IoC/Desafio.infra.IoC.csproj",
       "packagesPath": "/home/laercio/.nuget/packages/",
-      "outputPath": "/home/laercio/Projetos/Dotnet/desafio_framework/4-infra/4.2-CrossCuting/Desafio.infra.IoC/obj/",
+      "outputPath": "/home/laercio/Projetos/Dotnet/Desafio-Divisor/4-infra/4.2-CrossCuting/Desafio.infra.IoC/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/laercio/.nuget/NuGet/NuGet.Config"
@@ -311,14 +311,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/home/laercio/Projetos/Dotnet/desafio_framework/2-Application/Desafio.Application/Desafio.Application.csproj": {
-              "projectPath": "/home/laercio/Projetos/Dotnet/desafio_framework/2-Application/Desafio.Application/Desafio.Application.csproj"
+            "/home/laercio/Projetos/Dotnet/Desafio-Divisor/2-Application/Desafio.Application/Desafio.Application.csproj": {
+              "projectPath": "/home/laercio/Projetos/Dotnet/Desafio-Divisor/2-Application/Desafio.Application/Desafio.Application.csproj"
             },
-            "/home/laercio/Projetos/Dotnet/desafio_framework/3-Domain/Desafio.Domain/Desafio.Domain.csproj": {
-              "projectPath": "/home/laercio/Projetos/Dotnet/desafio_framework/3-Domain/Desafio.Domain/Desafio.Domain.csproj"
+            "/home/laercio/Projetos/Dotnet/Desafio-Divisor/3-Domain/Desafio.Domain/Desafio.Domain.csproj": {
+              "projectPath": "/home/laercio/Projetos/Dotnet/Desafio-Divisor/3-Domain/Desafio.Domain/Desafio.Domain.csproj"
             },
-            "/home/laercio/Projetos/Dotnet/desafio_framework/4-infra/4.1-Data/Desafio.Data/Desafio.Data.csproj": {
-              "projectPath": "/home/laercio/Projetos/Dotnet/desafio_framework/4-infra/4.1-Data/Desafio.Data/Desafio.Data.csproj"
+            "/home/laercio/Projetos/Dotnet/Desafio-Divisor/4-infra/4.1-Data/Desafio.Data/Desafio.Data.csproj": {
+              "projectPath": "/home/laercio/Projetos/Dotnet/Desafio-Divisor/4-infra/4.1-Data/Desafio.Data/Desafio.Data.csproj"
             }
           }
         }

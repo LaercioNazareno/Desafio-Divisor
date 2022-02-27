@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L/6oXg4mdb+yRnYuEjNKYNYc4KWK2kL2syfCtmxlVoF9dxT6Irb/QIOCb8FmLc7C64osW9WOw2+bUTOlPWxpMw==",
+  "dgSpecHash": "H/9K0p6Si5zSEdjaybDbYjoF+cm5F0+yTSLVww7pYYzxFfHZB/SBugwPwgavQ/MAidMIKFLKlJFHisCbxMSJ+A==",
   "success": true,
-  "projectFilePath": "/home/laercio/Projetos/Dotnet/desafio_framework/4-infra/4.1-Data/Desafio.Data/Desafio.Data.csproj",
+  "projectFilePath": "/home/laercio/Projetos/Dotnet/Desafio-Divisor/4-infra/4.1-Data/Desafio.Data/Desafio.Data.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

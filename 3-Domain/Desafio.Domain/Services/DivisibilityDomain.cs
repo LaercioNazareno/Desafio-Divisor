@@ -76,14 +76,14 @@ namespace Desafio.Domain.Services
             }
             return primeDivisors;
         }
-        public static bool IsPrimeFermat(int number)
+        public bool IsPrimeFermat(int number)
         {
             return (((Math.Pow(2, (number - 1))) % number) == 1 % number) || number == 2;
         }
         public Divisor GetDivisor(int number)
         {
+            
             var divisor = _repository.GetDivisorsCalculatedBy(number);
-
             if (divisor != null)
             {
                 return divisor;
@@ -94,7 +94,8 @@ namespace Desafio.Domain.Services
                 var primeDivisors = GetPrimeDivisors(number, allDividers);
                 divisor = new Divisor()
                 {
-                    AllDividers = allDividers,
+                    Number = number,
+                    AllDivisors = allDividers,
                     PrimeDivisors = primeDivisors
                 };
                 _repository.Save(divisor);

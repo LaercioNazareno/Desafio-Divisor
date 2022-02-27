@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bfcI1ELbgp4/MAnYOTAnO80tsgHxuulqiMHauH+JYKoSpwcCczDpHdqd8RtY+ppA9P2UWJ6lvaLpF4OcqTm3kg==",
+  "dgSpecHash": "9eNp+lXlNja3dbwjMidTlcREDT8j9m+Xp4jRqlJSwYnmlhXA1xDTsiEufYGc2SU4WDRyyE8R0DxFpFzUxpunCA==",
   "success": true,
-  "projectFilePath": "/home/laercio/Projetos/Dotnet/desafio_framework/4-infra/4.2-CrossCuting/Desafio.infra.IoC/Desafio.infra.IoC.csproj",
+  "projectFilePath": "/home/laercio/Projetos/Dotnet/Desafio-Divisor/4-infra/4.2-CrossCuting/Desafio.infra.IoC/Desafio.infra.IoC.csproj",
   "expectedPackageFiles": [
     "/home/laercio/.nuget/packages/automapper/11.0.1/automapper.11.0.1.nupkg.sha512",
     "/home/laercio/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",

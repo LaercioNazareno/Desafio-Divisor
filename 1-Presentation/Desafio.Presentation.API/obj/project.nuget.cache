@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rYayAdQLcTptq5k4YAvU68XfGYvD5wa6u+KKm690AwHh8SonjtSEGz9zl+lEXy+uQRtgveUWYF9PWcIPrByo7Q==",
+  "dgSpecHash": "ezfaWTZGPaliS3cdQuysSs3SuBs8oyI78F4+tx92V9cs6GLlYvII8AkHdW18NMMxd0EPgQ3eeucfqqKQa7Rr3w==",
   "success": true,
-  "projectFilePath": "/home/laercio/Projetos/Dotnet/desafio_framework/1-Presentation/Desafio.Presentation.API/Desafio.Presentation.API.csproj",
+  "projectFilePath": "/home/laercio/Projetos/Dotnet/Desafio-Divisor/1-Presentation/Desafio.Presentation.API/Desafio.Presentation.API.csproj",
   "expectedPackageFiles": [
     "/home/laercio/.nuget/packages/automapper/11.0.1/automapper.11.0.1.nupkg.sha512",
     "/home/laercio/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
