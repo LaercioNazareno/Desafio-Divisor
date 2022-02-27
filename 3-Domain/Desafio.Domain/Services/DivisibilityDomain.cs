@@ -82,8 +82,8 @@ namespace Desafio.Domain.Services
         }
         public Divisor GetDivisor(int number)
         {
+            
             var divisor = _repository.GetDivisorsCalculatedBy(number);
-
             if (divisor != null)
             {
                 return divisor;
@@ -94,6 +94,7 @@ namespace Desafio.Domain.Services
                 var primeDivisors = GetPrimeDivisors(number, allDividers);
                 divisor = new Divisor()
                 {
+                    Number = number,
                     AllDivisors = allDividers,
                     PrimeDivisors = primeDivisors
                 };
